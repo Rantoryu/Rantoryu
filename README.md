@@ -42,10 +42,9 @@
 
 <br>
 
-
 <div align="center">
 
-![Rantoryu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rantoryu&show_icons=true&theme=gruvbox)
+![Rantoryu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=rantoryu&show_icons=true&theme=gruvbox)
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rantoryu&theme=gruvbox)](https://git.io/streak-stats)

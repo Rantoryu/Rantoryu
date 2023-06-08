@@ -1,6 +1,6 @@
 # ⛰️ Dominik Migrała 🌲
 
-**`Currently: Looking for an IT job`**
+**`Currently: ----`**
 
 👋 Hey there, I'm a passionate developer that enjoys creating and building projects from ground up starting from planning and designing all the way to solving real-life problems with code.
 

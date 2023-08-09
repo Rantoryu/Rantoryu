@@ -7,7 +7,7 @@
 ### About me:<br>
 
 🎓 Master degree in Computer Science July 2022<br>
-🧪 I've worked as a Python Developer on beginner position.<br>
+🧪 I've worked as a Python Developer at beginner position. Working currently as IT Administrator.<br>
 ✨ I'm trying to find good balance in everything I do and I'm focusing myself on constant improvement. I enjoy and feel satisfaction from learning new things.<br>
 🎲 I like chess, creating mods for single-player PC games, sports and boardgames.<br>
 🌱 I’m currently learning: Javascript, React, Data Engineering skills<br>

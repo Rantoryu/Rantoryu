@@ -18,7 +18,7 @@
 ### 🛠️ Languages and Tools that I use:
 <br>
 <div align="center">
-<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="40px" style="padding-right:20px;" src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667"/></a>
 <a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>

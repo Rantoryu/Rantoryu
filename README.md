@@ -1,8 +1,8 @@
-# ⛰️ Dominik Migrała 🌲
+# ⛰️ Hi, I'm Dominik Migrała 🌲
 
 **`Currently: Working at BayWa r.e. Solar Systems Sp. z o.o.`**
 
-👋 Hey there, I'm a passionate developer that enjoys creating and building projects from ground up starting from planning and designing all the way to solving real-life problems with code.
+👋 A little about me - passionate developer that enjoys creating and building projects from ground up starting from planning and designing all the way to solving real-life problems with code.
 
 ### About me:<br>
 
@@ -10,7 +10,7 @@
 🧪 I've worked as a Python Developer at beginner position. Working currently as ERP Software Engineer.<br>
 ✨ I'm trying to find good balance in everything I do and I'm focusing myself on constant improvement. I enjoy and feel satisfaction from learning new things.<br>
 🎲 I like chess, creating mods for single-player PC games, sports and boardgames.<br>
-🌱 I’m currently learning: Javascript, Typescript, React, Data Engineering skills<br>
+🌱 I’m currently learning: Data & AI skills, Javascript, Typescript and expanding my current skillset with taken courses<br>
 📫 How to reach me: dominikmigrala@gmail.com<br>
 
 

@@ -19,7 +19,7 @@
 <br>
 <div align="center">
 <a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="50px" style="padding-right:20px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/960px-Python-logo-notext.svg.png"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://e7.pngegg.com/pngimages/10/113/png-clipart-django-web-development-web-framework-python-software-framework-django-text-trademark-thumbnail.png"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://www.svgrepo.com/show/353657/django-icon.svg"/></a>
 <a href="https://www.w3schools.com/html/" target="_blank"><img align="left" alt="HTML5" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/960px-Typescript_logo_2020.svg.png"/></a>

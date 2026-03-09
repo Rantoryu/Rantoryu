@@ -10,7 +10,7 @@
 🧪 I've worked as a Python Developer at beginner position. Working currently as ERP Software Engineer.<br>
 ✨ I'm trying to find good balance in everything I do and I'm focusing myself on constant improvement. I enjoy and feel satisfaction from learning new things.<br>
 🎲 I like chess, creating mods for single-player PC games, sports and boardgames.<br>
-🌱 I’m currently learning: Data & AI skills, Javascript, Typescript and expanding my current skillset with taken courses<br>
+🌱 I’m currently learning: Data management & AI in SaaS by expanding my knowledge with taken courses / projects<br>
 📫 How to reach me: dominikmigrala@gmail.com<br>
 
 
